@@ -1,0 +1,156 @@
+#!/usr/bin/pinpoint
+
+[font=Sans 200px]
+[white][text-color=black]
+[shading-opacity=0.0]
+[text-align=center]
+
+--
+The Moon
+
+<span font="150px">Paul '@pjf' Fenwick</span>
+
+<span font="50px">Presentation and slides CC-BY Paul Fenwick</span>
+
+-- [images/pretty.png]
+
+--
+The moon is
+far away
+--
+384,400 km
+--
+Same side
+always faces
+the Earth
+-- [images/near-moon.png]
+
+-- [images/far-moon.png]
+
+--
+Used to
+be closer
+--
+Why?
+--
+Space
+is cool
+--
+Low Earth Orbit
+→ 
+Faster
+
+# Satellites rotate faster than the
+# Earth's rotation
+--
+High Earth Orbit
+→ 
+Slower
+
+# Satellites orbit *slower* than the
+# Earth's rotation
+--
+Geosynchronous
+orbit
+
+--
+Moon
+HEO
+--
+Moon
+→
+Tides
+-- [images/torque.png]
+
+--
+IT SLOWS
+DOWN THE EARTH
+--
+Leap-seconds
+
+# This is why we
+# need leap seconds
+--
+620 myo
+→
+21 hr day
+-- [images/dimetrodon.jpg]
+
+# Dinosaurs were about 100m years ago. Probably ~23hr day
+# http://www.abc.net.au/science/articles/2012/11/28/3642932.htm
+# Dimetrodon image CC-BY Dmitry Bogdanov,
+# https://en.wikipedia.org/wiki/Dimetrodon#/media/File:Dimetrodon8DB.jpg
+--
+Wait!
+There's more!
+
+--[images/spinslow.gif]
+
+# From https://www.reddit.com/r/askscience/comments/2cf6fp/during_a_full_eclipse_the_moon_and_sun_have_the/cjf4n7e
+--
+Earth's angular
+momentum
+→
+Moon's orbital
+energy
+--
+Moon gets
+further away
+--
+Longer orbital
+period
+--
+Flip side
+-- [images/leo.png]
+
+# Satellites in LEO
+# lose orbital energy
+
+# Which means they speed up,
+# and get closer
+--
+Why the
+same side?
+-- [images/moon-locked.png]
+
+# Tidal bulges
+# on the moon
+--
+Stay aligned
+with the Earth
+--
+"Tide locked"
+
+# Moon's rotation is exactly
+# the same as its rotational period
+--
+Extremely
+common for
+moons
+-- [images/europa.png]
+
+--
+Earth will
+eventually
+"spin down"
+--
+~1080 hr day
+
+# Which matches the
+# moon's rotational period
+-- [images/red-giant.jpg]
+
+# Artist's impression
+# CC-BY-SA B. Jacobs
+# https://commons.wikimedia.org/wiki/File:Sun_Red_Giant.jpg
+--
+Thank you!
+--
+May you go
+to space today
+--
+Fork this
+talk!
+
+github.com/
+pjf/tide-locking
