@@ -123,8 +123,8 @@ with the Earth
 --
 "Tide locked"
 
-# Moon's rotation is exactly
-# the same as its rotational period
+# Moon's rotational period matches
+# its orbital period
 --
 Extremely
 common for
@@ -137,6 +137,7 @@ eventually
 "spin down"
 --
 ~1080 hr day
+(45 "days")
 
 # Which matches the
 # moon's rotational period
@@ -146,10 +147,13 @@ eventually
 # CC-BY-SA B. Jacobs
 # https://commons.wikimedia.org/wiki/File:Sun_Red_Giant.jpg
 --
-Thank you!
+Impress your
+friends!
 --
 May you go
 to space today
+--
+Thank you!
 --
 Fork this
 talk!
