@@ -6,7 +6,8 @@
 [text-align=center]
 
 --
-The Moon
+The Moon's Orbit
+How does it work?
 
 <span font="150px">Paul '@pjf' Fenwick</span>
 
@@ -14,18 +15,28 @@ The Moon
 
 -- [images/pretty.png]
 
+# I spend a lot of time playing Kerbal Space Programme
+# Here's a screenshot from my current setup using
+# RealismOverhaul
 --
 The moon is
 far away
 --
 384,400 km
+
+# 239k freedom units
 --
 Same side
 always faces
 the Earth
 -- [images/near-moon.png]
 
+# Here's the side of the moon we're used to seeing
+# from Earth
+
 -- [images/far-moon.png]
+
+# Here's the side we neer see from the Earth.
 
 --
 Used to
@@ -33,11 +44,17 @@ be closer
 --
 These are
 related!
+
+# The moon being far away and
+# tide locked are related!
 --
 Why?
---
-Space
-is cool
+-- [bottom-right][text-color=white][images/starfoxe.jpg]
+
+<span font="15px">https://soundcloud.com/nok-11/nokae-stairfax</span>
+
+# Because Space is
+# Cool!
 --
 Low Earth Orbit
 → 
@@ -62,8 +79,17 @@ HEO
 Moon
 →
 Tides
+
+# As you know, the moon produces tides
 -- [images/torque.png]
 
+# But the Moon is in HEO
+# So it's spinning *faster* than the
+# tidal bulge
+--
+Torque
+
+# This results in a torque
 --
 IT SLOWS
 DOWN THE EARTH
@@ -90,6 +116,11 @@ There's more!
 --[images/spinslow.png]
 
 # From https://www.reddit.com/r/askscience/comments/2cf6fp/during_a_full_eclipse_the_moon_and_sun_have_the/cjf4n7e
+#
+# The tidal bulge is dragged forward from its equilibrium
+# point by the Earth's rotation.
+# This drags the *moon* forward in its orbit.
+# More orbital energy -> Higher orbit
 --
 Earth's angular
 momentum
@@ -103,7 +134,8 @@ further away
 Longer orbital
 period
 --
-Flip side
+Opposite to
+Low Earth Orbit
 -- [images/leo.png]
 
 # Satellites in LEO
@@ -132,6 +164,11 @@ common for
 moons
 -- [images/europa.png]
 
+# All of Jupiter's Galilean moons
+# Are tide locked
+# 
+# Europa
+
 --
 Earth will
 eventually
@@ -144,6 +181,9 @@ eventually
 # moon's rotational period
 -- [images/red-giant.jpg]
 
+# But by then the sun will have already entered
+# its Red Giant phase
+#
 # Artist's impression
 # CC-BY-SA B. Jacobs
 # https://commons.wikimedia.org/wiki/File:Sun_Red_Giant.jpg
